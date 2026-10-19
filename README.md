@@ -138,6 +138,20 @@ Possible capabilities include:
 - Outstanding balance summaries.
 - Payment history.
 - Due-payment reminders.
+  ### 8. 📸 Screenshots
+
+### Dashboard
+<img width="1890" height="892" alt="image" src="https://github.com/user-attachments/assets/9bfcaa3c-0c19-4ac4-bf4d-1407cb9ef28f" />
+
+
+### AI Munshi - Voice & Receipt Bookkeeper
+<img width="1916" height="859" alt="image" src="https://github.com/user-attachments/assets/f1108919-ca14-4a37-8cd0-f7a6825c1a77" />
+
+### Quick Counter POS & Bill
+<img width="1710" height="851" alt="image" src="https://github.com/user-attachments/assets/9e7acfd7-3979-4b17-8cfd-d9e41a714b0c" />
+
+### Sales and Financial Insights
+<img width="1865" height="872" alt="image" src="https://github.com/user-attachments/assets/2acc5926-f407-4ed5-bbfe-70ea850aafe9" />
 
 ### 7. User-Friendly Interface
 
