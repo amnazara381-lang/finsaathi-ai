@@ -6,7 +6,9 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/f2f2d894-604f-46fb-8042-b630fd1681da
+View your app in AI Studio: FinSaathi AI — Local Website
+Open
+http://localhost:3000
 
 ## Run Locally
 
